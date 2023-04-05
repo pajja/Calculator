@@ -1,0 +1,9 @@
+#number {
+  text-align: right;
+  font-family: Arial, sans-serif;
+  font-size: 23px;
+}
+
+#output {
+  background-color: rgb(255, 255, 255);
+}

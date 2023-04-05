@@ -1,0 +1,6 @@
+#pad {
+  border: 3px solid rgb(76, 75, 75);
+  border-radius: 25px;
+  background-color: rgb(245, 249, 239);
+  padding: 10px;
+}
